@@ -2,7 +2,7 @@
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 
 ## Linear Algebra:
-[Khan Academy| Linear Algebra] [https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0] <br>
+[Khan Academy| Linear Algebra] [1] <br>
 ## Probability and statistics:
 [Khan Academy for probability][https://www.youtube.com/playlist?list=PLC58778F28211FA19] <br>
 [Khan Academy for statistics][https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566]<br>
@@ -30,3 +30,4 @@
 [Master the skills needed to solve complex data challenges]
 [https://www.edx.org/micromasters/mitx-statistics-and-data-science]<br>
 [Edx| Learn Data Science by doing data science][https://www.edx.org/micromasters/uc-san-diegox-data-science]<br>
+[1]: https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0
