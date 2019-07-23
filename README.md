@@ -23,10 +23,9 @@
 ## Natural Language Processing:
  [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
-[big data analysis using spark] (https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
+[big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 
 ## Data Science Courses
 [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
-[Master the skills needed to solve complex data challenges]
-(https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
+[Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
 [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
