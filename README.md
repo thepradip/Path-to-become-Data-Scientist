@@ -8,6 +8,7 @@
 
 ## Machine Learning <br>
 [Machine Learning by Andrew Ng][https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN]<br>
+[Linear Regression][https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C]
 ## Deep Learning <br>
 [Deeplearning.ai][https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w]<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
