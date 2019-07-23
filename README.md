@@ -1,5 +1,6 @@
 # Data-Science-Video-resources
-![alt text](https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png)
+<img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
+
 ## Linear Algebra:
 [Khan Academy| Linear Algebra] [https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0] <br>
 ## Probability and statistics:
