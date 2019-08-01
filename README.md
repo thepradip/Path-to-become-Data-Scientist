@@ -4,6 +4,7 @@
 ## Linear Algebra:
 - [Khan Academy | Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) <br>
 ## Probability and statistics:
+ - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
 - [Khan Academy for statistics](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)<br>
 - [coursera| Basic statistics](https://www.coursera.org/learn/basic-statistics)<br>
@@ -22,7 +23,8 @@
 - [MIT deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) <br>
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
- - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
+ - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
+## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 
 ## Data Science Courses
