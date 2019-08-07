@@ -3,6 +3,7 @@
 
 ## Linear Algebra:
 - [Khan Academy | Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) <br>
+- [Andrew ng| chapter3.1 t0 3.6](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=13&t=0s)
 ## Probability and statistics:
  - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
