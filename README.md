@@ -1,7 +1,7 @@
 # Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 ## Introduction to Machine Learning:
--[Andrew ng|chapter 1.1 to 1.3](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
+- [Andrew ng|chapter 1.1 to 1.3](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
 ## Linear Regression:
 - [Andrew ng| chapter 2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
 ##
