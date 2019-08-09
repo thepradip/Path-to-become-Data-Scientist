@@ -35,6 +35,7 @@
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 # Artificial Intelligent
 - [UC Berkeley](http://ai.berkeley.edu/lecture_videos.html)
+-[UC Berkeley|materials](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 ## Data Science Courses
 - [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
