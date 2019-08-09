@@ -2,7 +2,7 @@
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 <br>
 ## Probability and statistics:
- - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
+- [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
 - [Khan Academy for statistics](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)<br>
 - [coursera| Basic statistics](https://www.coursera.org/learn/basic-statistics)<br>
