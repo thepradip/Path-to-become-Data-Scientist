@@ -3,7 +3,7 @@
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 
 ## Machine learning Introduction:
--[ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
+- [ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
 ## Algebra:
 - [Linear Albegra|chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
 ## Probability and statistics: <br>
