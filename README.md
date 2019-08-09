@@ -1,7 +1,10 @@
+
 # Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 <br>
-
+## Linear Regression:
+- [Andrew ng chapter](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
+- [statisticsfun](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)
 
 ## Machine Learning <br>
 - [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
