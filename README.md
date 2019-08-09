@@ -6,8 +6,7 @@
 - [ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
 - [what is ML](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=7)
 - [7 steps in ML](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=3)
-- [Practical ML](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-- [ML| Udacity](https://classroom.udacity.com/courses/ud120)
+
 ## Algebra:
 - [Linear Albegra| chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
 ## Probability and statistics: <br>
@@ -20,6 +19,8 @@
 - [ng|regression|chapter 2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
 - [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
 - [Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C)
+- [Practical ML](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [ML| Udacity](https://classroom.udacity.com/courses/ud120)
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
 - [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
