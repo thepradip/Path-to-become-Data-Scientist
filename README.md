@@ -17,6 +17,7 @@
 - [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
 - [Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C)
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
+- [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Deep Learning <br>
 - [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
@@ -35,7 +36,7 @@
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 # Artificial Intelligent
 - [UC Berkeley](http://ai.berkeley.edu/lecture_videos.html)
--[UC Berkeley|materials](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [UC Berkeley|materials](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 ## Data Science Courses
 - [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
