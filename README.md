@@ -19,6 +19,7 @@
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Deep Learning <br>
+- [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
 - [Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8&t=0s)<br>
