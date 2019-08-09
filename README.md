@@ -1,20 +1,6 @@
 # Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
-## Introduction to Machine Learning:
-- [Andrew ng|chapter 1.1 to 1.3](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
-## Linear Regression:
-- [Andrew ng| chapter 2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
-##
-## Linear Algebra:
-- [Khan Academy | Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) <br>
-- [Andrew ng| chapter 3.1 to 3.6](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=13&t=0s)
-## Logistic Regression:
-- [Andrew ng|chapter 6](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=32)
-## Regularization:
-- [Andrew ng|chapter 7](https://www.youtube.com/watch?v=u73PU6Qwl1I&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=39)
-## neural network:
-- [Andrew ng| chapter 8](https://www.youtube.com/watch?v=1ZhtwInuOD0&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=43)
-
+<br>
 ## Probability and statistics:
  - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
