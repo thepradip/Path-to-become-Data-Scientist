@@ -2,8 +2,10 @@
 # Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 
-## Linear Algebra:<br>
-- [Andrew ng|chapter2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
+## Machine learning Introduction:
+-[ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
+## Algebra:
+- [Linear Albegra|chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
 ## Probability and statistics: <br>
 - [Probability and statistics in data science using python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-python-2)<br>
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
@@ -11,7 +13,8 @@
 - [coursera| Basic statistics](https://www.coursera.org/learn/basic-statistics)<br>
 ## Machine Learning <br>
 - [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
-- [statisticsfun](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
+- [ng|regression|chapter 2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
+- [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
 - [Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C)
 ## Deep Learning <br>
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
