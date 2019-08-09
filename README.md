@@ -33,7 +33,8 @@
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
-
+# Artificial Intelligent
+- [UC Berkeley](http://ai.berkeley.edu/lecture_videos.html)
 ## Data Science Courses
 - [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
