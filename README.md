@@ -2,11 +2,11 @@
 # Data-Science-Video-resources
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI.png" alt="DS" width="600"/>
 <br>
-## Linear Regression: <br>
-- [statisticsfun](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
+## Linear Regression <br>
 
 ## Machine Learning <br>
 - [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
+- [statisticsfun](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
 - [Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C)
 ## Deep Learning <br>
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
