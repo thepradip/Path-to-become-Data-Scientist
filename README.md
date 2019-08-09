@@ -4,6 +4,8 @@
 
 ## Machine learning Introduction:
 - [ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
+- [what is ML](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=7)
+- [7 steps in ML](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=3)
 ## Algebra:
 - [Linear Albegra| chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
 ## Probability and statistics: <br>
