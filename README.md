@@ -16,6 +16,7 @@
 - [ng|regression|chapter 2 and 4](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4)
 - [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
 - [Linear Regression](https://www.youtube.com/watch?v=zPG4NjIkCjc&list=PLF596A4043DBEAE9C)
+- [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Deep Learning <br>
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
