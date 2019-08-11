@@ -26,6 +26,8 @@
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Deep Learning <br>
+ - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
+  - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
 - [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
