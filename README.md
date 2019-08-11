@@ -32,6 +32,7 @@
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
 - [Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8&t=0s)<br>
+- [7 step to mastering deep learning](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
  - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
  - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Transfer Learning](https://www.youtube.com/watch?v=mPFq5KMxKVw&t=1s)<br>
