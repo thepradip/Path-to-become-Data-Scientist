@@ -44,6 +44,7 @@
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 ## Reinforcement Learning
+- [https://www.youtube.com/watch?v=t1A3NTttvBA&t=1260s](https://www.youtube.com/watch?v=t1A3NTttvBA&t=1260s)
 - [code camp](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=3647s)
 - [Edureka](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 ## Artificial Intelligent
