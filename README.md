@@ -43,6 +43,9 @@
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
+## Reinforcement Learning
+- [code camp](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=3647s)
+- [Edureka](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 ## Artificial Intelligent
 - [UC Berkeley](http://ai.berkeley.edu/lecture_videos.html)
 - [UC Berkeley|materials](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
