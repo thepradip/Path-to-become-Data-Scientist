@@ -41,6 +41,11 @@
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
+## Recommedation engine
+- [Andre ng| chapter 16](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
+- [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
+- [Movie Recommendation System with Collaborative Filtering](https://www.youtube.com/watch?v=3ecNC-So0r4)
+
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 ## Reinforcement Learning
