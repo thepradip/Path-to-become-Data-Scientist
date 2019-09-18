@@ -1,6 +1,6 @@
 
 #  Path to become Data Scientist(Videos)
-<img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI6.jpg"  width="600"/>
+<img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI6.jpg"  width="900"/>
 
 
 
