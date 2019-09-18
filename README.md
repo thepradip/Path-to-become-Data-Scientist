@@ -62,7 +62,9 @@
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 ## Reinforcement Learning
-- [TensorFlow and deep reinforcement learning, without a PhD (Google I/O '18)](https://www.youtube.com/watch?v=t1A3NTttvBA&t=1260s)
+- [Simplified Reinforcement learning](https://www.youtube.com/watch?v=e3Jy2vShroE)
+- [TensorFlow and deep reinforcement learning, without a PhD (Google I/O '18)](https://www.youtube.com/watch?v=t1A3NTttvBA&t=772s)
+- [Reinforcement Learning Course](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=1845s)
 - [code camp](https://www.youtube.com/watch?v=ELE2_Mftqoc&t=3647s)
 - [Edureka](https://www.youtube.com/watch?v=LzaWrmKL1Z4)
 ## Artificial Intelligent
