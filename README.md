@@ -53,6 +53,10 @@
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
+ - [Intro to NLP with spaCy (1): Detecting programming languages | Episode 1: Data exploration](https://www.youtube.com/watch?time_continue=815&v=WnGPv6HnBok)
+ - [Building new NLP solutions with spaCy and Prodigy - Matthew Honnibal](https://www.youtube.com/watch?time_continue=234&v=jpWqz85F_4Y)
+- [ Advanced NLP with Spacy ](https://course.spacy.io/)
+- [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 ## Recommedation engine
 - [coursera](https://www.coursera.org/specializations/recommender-systems)
 - [Andre ng| chapter 16](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
