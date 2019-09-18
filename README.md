@@ -31,18 +31,26 @@
 - [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
 ## Deep Learning <br>
+ ## Deep Learning <br>
+  - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
+   - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
+  - [Getting Started with Keras (AI Adventures)](https://www.youtube.com/watch?v=J6Ok8p463C4)
+  - [Ten steps to keras|](https://www.youtube.com/watch?v=FrkYu2zVUyM)
 - [Deep learning| reinforcement Learning](http://videolectures.net/deeplearning2017_montreal/)
 - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)<br>
 <i>Course 1,2,3,4,5 of deep learning specialization</i> <br>
 - [Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=8&t=0s)<br>
+- [RNN](https://www.youtube.com/watch?v=yCC09vCHzF8&t=58s)<br>
+- [DL|udemy](https://www.youtube.com/watch?v=BR9h47Jtqyw)
+- [DL|RNN](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [7 step to mastering deep learning](https://www.kdnuggets.com/2017/10/seven-steps-deep-learning-keras.html)
- - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
  - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Transfer Learning](https://www.youtube.com/watch?v=mPFq5KMxKVw&t=1s)<br>
  - [Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM](https://www.youtube.com/watch?v=yCC09vCHzF8&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=11&t=0s)<br>
 - [MIT deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) <br>
+
 ## Natural Language Processing:
  - [Deep learning for NLP by Richard](https://www.youtube.com/watch?v=oGk1v1jQITw)<br>
  - [Deep Learning for NLP](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=1)
