@@ -25,6 +25,11 @@
 - [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
+## Evaluation Metrics
+- [ML error metrics](https://www.youtube.com/watch?v=aDW44NPhNw0&list=PLs8w1Cdi-zvY9ICoYqu1XV0YoTQgShXw2)
+- [datcamp|metrics](https://www.youtube.com/watch?v=85dtiMz9tSo&t=950s)
+- [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
+- [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
 ## Deep Learning <br>
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
