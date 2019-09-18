@@ -30,7 +30,6 @@
 - [datcamp|metrics](https://www.youtube.com/watch?v=85dtiMz9tSo&t=950s)
 - [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
-## Deep Learning <br>
  ## Deep Learning <br>
   - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
    - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
