@@ -25,7 +25,6 @@
 - [Machine Learning fun easy| concept](https://www.youtube.com/watch?v=RPvLgzEybJU&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 - [Practical ML|sentdex|python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ML| Udacity](https://classroom.udacity.com/courses/ud120)
-- [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Evaluation Metrics
@@ -35,6 +34,7 @@
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
  ## Deep Learning 
  - [Neural network|3Blue 1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+ - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
   - [Getting Started with Keras (AI Adventures)](https://www.youtube.com/watch?v=J6Ok8p463C4)
