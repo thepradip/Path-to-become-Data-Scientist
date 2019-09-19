@@ -20,11 +20,10 @@
 - [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 
 ## Machine Learning <br>
-- [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
-- [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
-- [Naive bayes](https://www.youtube.com/watch?v=CPqOCI0ahss&t=10s)
-
-- [Practical ML|sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Machine Learning by Andrew Ng| concept](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
+- [statisticsfun|linear regression|concept](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
+- [Machine Learning fun easy| concept](https://www.youtube.com/watch?v=RPvLgzEybJU&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
+- [Practical ML|sentdex|python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ML| Udacity](https://classroom.udacity.com/courses/ud120)
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
