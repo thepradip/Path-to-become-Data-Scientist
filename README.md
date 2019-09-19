@@ -2,15 +2,11 @@
 #  Path to become Data Scientist(Videos)
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI6.jpg"  width="900"/>
 
-
-
-
 ## Machine learning Introduction:
 - [ML Intro](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=1)
 - [what is ML](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=7)
 - [7 steps in ML](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&list=PLMUdwhLW7A0icUPn6LT5Zj0rDqZ2OOP8Y&index=3)
 - [How to Enter a Kaggle Competition (using Kernels) | Kaggle](https://www.youtube.com/watch?v=GJBOMWpLpTQ)
-
 
 ## Algebra:
 - [Linear Albegra| chapter 3](https://www.youtube.com/watch?v=Dft1cqjwlXE&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=12)
@@ -24,9 +20,10 @@
 - [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 
 ## Machine Learning <br>
-
 - [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
 - [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
+- [Naive bayes](https://www.youtube.com/watch?v=CPqOCI0ahss&t=10s)
+
 - [Practical ML|sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ML| Udacity](https://classroom.udacity.com/courses/ud120)
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
