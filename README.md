@@ -20,14 +20,16 @@
 - [Khan Academy for probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) <br>
 - [Khan Academy for statistics](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)<br>
 - [coursera| Basic statistics](https://www.coursera.org/learn/basic-statistics)<br>
+## Python for data science
+- [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
+
 ## Machine Learning <br>
 
 - [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
 - [statisticsfun|linear regression](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
-- [Practical ML](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Practical ML|sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ML| Udacity](https://classroom.udacity.com/courses/ud120)
 - [Neural network | hugo](https://www.youtube.com/watch?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH&v=SGZ6BttHMPw)
-- [Datacamp|python and plot](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [Google |mastering machine learning| Crash course| tensorflow](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ## Evaluation Metrics
@@ -36,8 +38,6 @@
 - [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
  ## Deep Learning <br>
-  - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)<br>
-   - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
   - [Getting Started with Keras (AI Adventures)](https://www.youtube.com/watch?v=J6Ok8p463C4)
@@ -82,6 +82,7 @@
 ## Data Scientist Interiew
 - [DataCamp |DataChats](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1)
 ## Data Science Courses
-- [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
-- [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
-- [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
+  - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)
+   - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
+- [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+- [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)
