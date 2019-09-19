@@ -37,7 +37,8 @@
 - [datcamp|metrics](https://www.youtube.com/watch?v=85dtiMz9tSo&t=950s)
 - [AUC and ROC curve](https://www.youtube.com/watch?v=OAl6eAyP-yo)
 - [What's the difference between accuracy and precision?](https://www.youtube.com/watch?v=hRAFPdDppzs)
- ## Deep Learning <br>
+ ## Deep Learning 
+ - [Neural network|3Blue 1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  - [Keras|edureka](https://www.youtube.com/watch?v=XNKeayZW4dY)
   - [Keras|udemy](https://www.youtube.com/watch?v=7x2YZhEj9Dw)
   - [Getting Started with Keras (AI Adventures)](https://www.youtube.com/watch?v=J6Ok8p463C4)
