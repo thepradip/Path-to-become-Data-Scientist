@@ -22,6 +22,7 @@
 ## Machine Learning <br>
 - [Machine Learning by Andrew Ng| concept](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
 - [statisticsfun|linear regression|concept](https://www.youtube.com/playlist?list=PLF596A4043DBEAE9C)<br>
+- [Applied Machine Learning](https://www.youtube.com/watch?v=Qd68h4UGlNY&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA)
 - [Machine Learning fun easy| concept](https://www.youtube.com/watch?v=RPvLgzEybJU&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp)
 - [Practical ML|sentdex|python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [ML| Udacity](https://classroom.udacity.com/courses/ud120)
@@ -78,6 +79,8 @@
 - [UC Berkeley|materials](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 ## Data Scientist Interiew
 - [DataCamp |DataChats](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1)
+## Awesome talk On Machine Learning
+- [Andreas Mueller|MIT](https://www.youtube.com/playlist?list=PL_pVmAaAnxITmBjkH1d0_dANEH7ro2_tH)
 ## Data Science Courses
   - [Learn Deep learning fundamental with Keras from IBM](https://www.edx.org/course/deep-learning-fundamentals-with-keras)
    - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
