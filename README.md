@@ -149,7 +149,8 @@
 ## Clustering
  - [Kmean visuallization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
  - [DB scan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
- -[clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
+ - [clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
+ - [14 Clustering tutorials](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
  # Deep Learning
  - [15 Deep Learning tutorials](https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
 
