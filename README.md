@@ -106,6 +106,8 @@
 - [Kaggle ](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 - [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Mlcourse.ai](https://mlcourse.ai/)
+- [Andrew Trask](http://iamtrask.github.io/)
+- [Andrej karpathy](http://karpathy.github.io/)
 # Visualization of model
 - [Tensorboard](https://www.tensorflow.org/tensorboard)
 - [Hand-on Tensorboard](https://www.youtube.com/watch?v=eBbEDRsCmv4)
