@@ -86,8 +86,12 @@
    - [Python for data science](https://www.edx.org/professional-certificate/python-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 - [Edx| Learn Data Science by doing data science](https://www.edx.org/micromasters/uc-san-diegox-data-science)
-
-
+# Data science competition
+- [kaggle](https://www.kaggle.com/)
+- [drivendata](https://www.drivendata.org/competitions/)
+- [crowdanalytix](https://www.crowdanalytix.com/listContests)
+- [codalab](https://competitions.codalab.org/)
+- [tianchi](https://tianchi.aliyun.com/competition/gameList/activeList)
 ## Data Scientist Interiew
 - [DataCamp |DataChats](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1)
 ## Data Science Courses
