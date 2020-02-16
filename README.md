@@ -64,7 +64,9 @@
 - [Andre ng| chapter 16](https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96)
 - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
 - [Movie Recommendation System with Collaborative Filtering](https://www.youtube.com/watch?v=3ecNC-So0r4)
-
+## Computer Vision
+- [opencv tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- [pyimagesearch| best](https://www.pyimagesearch.com/)
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
 ## Reinforcement Learning
