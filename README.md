@@ -214,4 +214,5 @@
 - [Machine Mastery](https://machinelearningmastery.com/datasets-natural-language-processing/)
 - [Cambridgespark](https://blog.cambridgespark.com/50-free-machine-learning-datasets-natural-language-processing-d88fb9c5c8da)
 - [Public Datasets ](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
+- [NLP dataset](https://github.com/niderhoff/nlp-datasets)
 
