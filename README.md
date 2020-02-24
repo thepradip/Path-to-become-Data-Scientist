@@ -215,4 +215,8 @@
 - [Cambridgespark](https://blog.cambridgespark.com/50-free-machine-learning-datasets-natural-language-processing-d88fb9c5c8da)
 - [Public Datasets ](https://www.springboard.com/blog/free-public-data-sets-data-science-project/)
 - [NLP dataset](https://github.com/niderhoff/nlp-datasets)
+## Books
+- ISLR
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow]s by Aurélien Géron
+- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 by Sebastian Raschka
 
