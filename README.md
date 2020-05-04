@@ -66,6 +66,7 @@
 - [Movie Recommendation System with Collaborative Filtering](https://www.youtube.com/watch?v=3ecNC-So0r4)
 ## Computer Vision
 - [opencv tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html)
+- [image-segmentation-tips-and-tricks-from-kaggle-competitions](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions)
 - [pyimagesearch| best](https://www.pyimagesearch.com/)
 ## Big data
 - [big data analysis using spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
