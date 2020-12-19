@@ -97,6 +97,7 @@
 - [tianchi](https://tianchi.aliyun.com/competition/gameList/activeList)
 ## Data Scientist Interiew
 - [DataCamp |DataChats](https://www.youtube.com/watch?v=YVMlyOh_eyk&list=PLjgj6kdf_snYAqMEWOlql_DVMPbh8dtP1)
+- [machine-learning-algorithms-interview](https://workera.ai/resources/machine-learning-algorithms-interview/)
 ## Data Science Courses
 - [Data science course](https://www.edx.org/micromasters/uc-san-diegox-data-science)<br>
 - [Master the skills needed to solve complex data challenges](https://www.edx.org/micromasters/mitx-statistics-and-data-science)<br>
