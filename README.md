@@ -161,7 +161,7 @@
  - [14 Clustering tutorials](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
  # Deep Learning
  - [15 Deep Learning tutorials](https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
-
+- [Initialization weight in NN](https://www.deeplearning.ai/ai-notes/initialization/index.html?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=TwitterApril2019)
  ## Tensorflow
  - [tensorflow|documentation](https://www.tensorflow.org/tutorials/)
  - [TensorFlow: A primer](https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3)
