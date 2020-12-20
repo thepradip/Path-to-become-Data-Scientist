@@ -1,5 +1,5 @@
 
-#  Path to become Data Scientist(Videos and reading resources)
+#  Path to become Data Scientist(Free Videos and reading resources)
 <img src="https://github.com/thepradip/Data-Science-Video-resources/blob/master/AI6.jpg"  width="900"/>
 
 ## Machine learning Introduction:
